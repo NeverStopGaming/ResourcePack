@@ -1,0 +1,12 @@
+{
+    "audio1": {
+        "sounds": [
+            "nsg:sound1"
+        ]
+    },
+    "telekom": {
+        "sounds": [
+            "nsg:telekom"
+        ]
+    }
+}
